@@ -1,0 +1,10 @@
+[
+  {
+    "$type": "VSToDoList.Models.Task, VSToDoList",
+    "Name": "完成单例模式",
+    "IsDone": false,
+    "IsExpanded": false,
+    "SubTasks": [],
+    "Status": 0
+  }
+]
